@@ -1,0 +1,3 @@
+[submodule "jquery-serialize-object"]
+	path = jquery-serialize-object
+	url = https://github.com/macek/jquery-serialize-object
